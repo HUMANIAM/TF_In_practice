@@ -232,4 +232,6 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode
 
-# data
+# data and models
+introduction_to_tensorflow/data
+introduction_to_tensorflow/models
