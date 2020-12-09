@@ -237,4 +237,6 @@ introduction_to_tensorflow/data
 introduction_to_tensorflow/models
 CNN_with_TF/data
 CNN_with_TF/models
+NLP/data
+NLP/models
 resources
