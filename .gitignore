@@ -238,5 +238,5 @@ introduction_to_tensorflow/models
 CNN_with_TF/data
 CNN_with_TF/models
 NLP/data
-NLP/models
+NLP/model/
 resources
